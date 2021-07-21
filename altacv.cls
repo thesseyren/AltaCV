@@ -81,7 +81,6 @@
 
 \if@withhyper
   \AtBeginDocument{%
-    \hypersetup{hidelinks}
     \urlstyle{same}
   }
 \fi
